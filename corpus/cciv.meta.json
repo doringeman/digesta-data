@@ -1,0 +1,41 @@
+{
+  "sursa": "https://legislatie.just.ro/Public/FormaPrintabila/00000G294HEAQKROXDD17TXC91CGM971",
+  "fisier_brut": "data/raw/cod-civil-2026-09-25.html",
+  "sha256_brut": "b37bbf675885dbb8b1476caae21b5a23308439e29198b90645f421c3ce3058af",
+  "data_descarcare": "2026-09-25",
+  "act": "CODUL CIVIL din 17 iulie 2009 (**republicat**) (Legea nr. 287/2009**) MONITORUL OFICIAL nr. 505 din 15 iulie 2011",
+  "titlu_pagina": "COD CIVIL (A) 04/07/2016",
+  "ultima_modificare_incorporata": {
+    "data": "2026-05-03",
+    "adnotari": [
+      "(la 03-05-2026, Alineatul (2) , Articolul 375 , Subsectiunea 3. , Sectiunea 1 , Capitolul VII , Titlul II , Cartea a II-a a fost modificat de Punctul 1. , ARTICOLUL UNIC din LEGEA nr. 57 din 30 aprilie 2026, publicată în MONITORUL OFICIAL nr. 364 din 30 aprilie 2026 )",
+      "(la 03-05-2026, Alineatul (5) , Articolul 376 , Subsectiunea 3. , Sectiunea 1 , Capitolul VII , Titlul II , Cartea a II-a a fost modificat de Punctul 2. , ARTICOLUL UNIC din LEGEA nr. 57 din 30 aprilie 2026, publicată în MONITORUL OFICIAL nr. 364 din 30 aprilie 2026 )",
+      "(la 03-05-2026, Articolul 383 , Subsectiunea 2. , Sectiunea a 2-a , Capitolul VII , Titlul II , Cartea a II-a a fost modificat de Punctul 3. , ARTICOLUL UNIC din LEGEA nr. 57 din 30 aprilie 2026, publicată în MONITORUL OFICIAL nr. 364 din 30 aprilie 2026 )"
+    ]
+  },
+  "articole": 2674,
+  "limitari": [
+    "Subsectiunile Codului nu apar in forma printabila; 'cale' coboara pana la sectiune sau pana la diviziunea cu cifra romana afisata de sursa (care nu corespunde mereu subsectiunii oficiale).",
+    "Notele editoriale si deciziile ICCJ (RIL/HP) atasate articolelor sunt excluse din text.",
+    "'trimiteri' contine doar trimiterile explicite marcate in sursa, fara intervalele de peste 5 articole (acestea trimit la un regim intreg, nu la o dispozitie anume)."
+  ],
+  "trimiteri": {
+    "intervale excluse": 21,
+    "rezolvate": 489
+  },
+  "corectii_sursa": {
+    "1873": [
+      "continua executarea\ncontractului",
+      "continua executarea contractului"
+    ],
+    "2663": [
+      "însuși.\nDispoziții finale",
+      "însuși."
+    ],
+    "2664": [
+      "Cartea VII > Titlul II > Capitolul IX",
+      "Dispoziții finale",
+      "Dispoziții finale"
+    ]
+  }
+}

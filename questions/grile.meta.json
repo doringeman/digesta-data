@@ -1,0 +1,27 @@
+{
+  "sursa": "https://github.com/craciuncg/GRAF",
+  "commit": "7e52178904ae2c888dd5dfe82834d155b38f9147",
+  "licenta_sursa": "MIT",
+  "fisiere": [
+    "JuRo/train_set/inm/inm_civil.csv_train.csv",
+    "JuRo/validation_set/inm/inm_civil.csv_validation.csv",
+    "JuRo/test_set/inm/inm_civil.csv_test.csv",
+    "JuRo/train_set/inppa/inppa_civil.csv_train.csv",
+    "JuRo/validation_set/inppa/inppa_civil.csv_validation.csv",
+    "JuRo/test_set/inppa/inppa_civil.csv_test.csv"
+  ],
+  "grile": {
+    "INM": 250,
+    "INPPA": 613
+  },
+  "variante": 2589,
+  "variante_adevarate": 1201,
+  "variante_false": 1388,
+  "enunturi_negative": [
+    "inppa-train-0193",
+    "inppa-train-0314",
+    "inppa-validation-0044",
+    "inppa-test-0077"
+  ],
+  "duplicate_eliminate": 6
+}

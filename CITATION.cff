@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the paper below."
+title: "Digesta: a statute retrieval evaluation set for the Romanian Civil Code"
+type: dataset
+authors:
+  - family-names: Geman
+    given-names: Dorin-Andrei
+    email: dorin_andrei.geman@stud.acs.upb.ro
+    affiliation: "National University of Science and Technology POLITEHNICA Bucharest"
+  - family-names: Dieaconu
+    given-names: Vlad-Ștefan
+    affiliation: "National University of Science and Technology POLITEHNICA Bucharest"
+  - family-names: Rughiniș
+    given-names: Răzvan-Victor
+    affiliation: "National University of Science and Technology POLITEHNICA Bucharest"
+  - family-names: Resul
+    given-names: Ebru
+    affiliation: "National University of Science and Technology POLITEHNICA Bucharest"
+license: CC-BY-4.0
+keywords:
+  - legal information retrieval
+  - statute retrieval
+  - evaluation dataset
+  - Romanian
+  - Civil Code
+  - LLM-assisted annotation
+preferred-citation:
+  type: conference-paper
+  title: "Building a Statute Retrieval Evaluation Set for the Romanian Civil Code: LLM-Assisted Annotation and Expert Validation"
+  authors:
+    - family-names: Geman
+      given-names: Dorin-Andrei
+    - family-names: Dieaconu
+      given-names: Vlad-Ștefan
+    - family-names: Rughiniș
+      given-names: Răzvan-Victor
+    - family-names: Resul
+      given-names: Ebru
+  collection-title: "Proceedings of the RoEduNet Conference 2026"
+  conference:
+    name: "RoEduNet 2026"
+    city: "Iași"
+    country: RO
+  year: 2026
